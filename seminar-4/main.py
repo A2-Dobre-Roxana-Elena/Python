@@ -8,7 +8,7 @@ def my_function(director):
     for i in c:
         if os.path.isfile(i):
             if '.' in i:
-                j = i.index('.')
+                j = i.rindex('.')
                 if i[j:] not in e:
                     e.append(i[j:])
     e.sort()
@@ -106,7 +106,7 @@ def ext(path):
     list = []
     for i in c:
         if ~os.path.isdir(i) and '.' in i:
-            j = i.index('.')
+            j = i.rindex('.')
             if i[j:] not in list:
                 list.append(i[j:])
     list.sort()
@@ -133,7 +133,7 @@ def ext(path):
     to_delete=[]
     for i in c:
         if ~os.path.isdir(i) and '.' in i:
-            j = i.index('.')
+            j = i.rindex('.')
             list.append(i[j:])
     for i in list:
         if list.count(i) > 1:
