@@ -120,8 +120,8 @@ print(ext(sys.argv[1]))
 # extensii care apar o singura daca in directorul dat
 # atunci codul este acesta:
 # linia de comanda: py ./main.py ./forTestProjects
-
 """
+
 
 import sys
 import os
