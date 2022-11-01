@@ -116,7 +116,7 @@ def ext(path):
 print(ext(sys.argv[1]))
 """
 
-#Daca trebuia sa creez o lista cu extensiile fisierelor,
+# Daca trebuia sa creez o lista cu extensiile fisierelor,
 # extensii care apar o singura daca in directorul dat
 # atunci codul este acesta:
 # linia de comanda: py ./main.py ./forTestProjects
@@ -164,11 +164,11 @@ def searchInFolder(target, to_search):
     list = []
     c = os.listdir(target)
     for i in c:
-        if os.path.isfile(i):
-            if searchInFile(target+'/'+i, to_search):
+        if os.path.isfile(target + '/' + i):
+            if searchInFile(target + '/' + i, to_search):
                 list.append(i)
-        elif os.path.isdir(i):
-            k = searchInFolder(i, to_search)
+        elif os.path.isdir(target + '/' + i):
+            k = searchInFolder(target + '/' + i, to_search)
             list.extend(k)
     return list
 
@@ -189,18 +189,15 @@ def searchInTarget(target, to_search):
         print("Introduceti calea unui fisier sau a unui folder.")
 
 
-
 file = "./ex5.txt"
-file2 = "./forTestProjects/A.txt"
 folder = "./forTestProjects"
-somethingElse = "./forTestProjects/D"
+somethingElse = "./forTestProjects1"
 to_seach = "012345"
 
 #print(searchInTarget(file2, to_seach))
 #print(searchInTarget(folder, to_seach))
 #print(searchInTarget(somethingElse, to_seach))
 """
-
 
 # exercitiul 6
 """
@@ -221,11 +218,11 @@ def searchInFolder(target, to_search):
     list = []
     c = os.listdir(target)
     for i in c:
-        if os.path.isfile(i):
+        if os.path.isfile(target+'/'+i):
             if searchInFile(target+'/'+i, to_search):
                 list.append(i)
-        elif os.path.isdir(i):
-            k = searchInFolder(i, to_search)
+        elif os.path.isdir(target+'/'+i):
+            k = searchInFolder(target+'/'+i, to_search)
             list.extend(k)
     return list
 
@@ -251,7 +248,7 @@ def searchInTarget(target, to_search, callback):
 file = "./ex5.txt"
 file2 = "./forTestProjects/A.txt"
 folder = "./forTestProjects"
-somethingElse = "./forTestProjects/D"
+somethingElse = "./forTestProjects1"
 to_seach = "012345"
 
 #print(searchInTarget(file2, to_seach))
