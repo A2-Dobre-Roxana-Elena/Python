@@ -1,0 +1,29 @@
+DATETIME                   OPERATIE        TIP-ITEM        ITEM
+06/12/2022 17:27:30            create        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\Document text nou.txt
+06/12/2022 17:27:33            moved        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\Document text nou.txt
+06/12/2022 17:28:05            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:28:05            write        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:28:05            write        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:28:11            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:28:15            write        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:28:15            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:28:15            write        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:28:22            create        director        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\Folder nou
+06/12/2022 17:28:23            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\Folder nou
+06/12/2022 17:28:28            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:28            moved        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\Folder nou
+06/12/2022 17:28:28            write        director        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:32            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:37            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:37            create        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor\Document text nou.txt
+06/12/2022 17:28:37            write        director        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:42            moved        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor\Document text nou.txt
+06/12/2022 17:28:42            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:42            write        director        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:47            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:49            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:49            delete        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor\buna buna.txt
+06/12/2022 17:28:49            write        director        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:54            access        folder        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:54            delete        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua tuturor
+06/12/2022 17:28:58            delete        fisier        C:\Users\utilizator\Documents\facultate\python\C15\Proiect_C15\deMonitorizatMomentam\buna ziua.txt

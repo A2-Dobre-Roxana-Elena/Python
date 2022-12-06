@@ -1,0 +1,22 @@
+DATETIME                   OPERATIE        TIP-ITEM        ITEM
+06/12/2022 17:22:17            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\hei.txt
+06/12/2022 17:22:22            delete        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\hei.txt
+06/12/2022 17:22:26            create        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\Document text nou.txt
+06/12/2022 17:22:30            create        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:22:37            delete        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna ziua.txt
+06/12/2022 17:22:42            create        folder        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\Folder nou
+06/12/2022 17:22:44            delete        folder        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\Folder nou
+06/12/2022 17:22:44            create        folder        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna
+06/12/2022 17:22:47            access        folder        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna
+06/12/2022 17:22:47            delete        folder        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna
+06/12/2022 17:22:52            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\Document text nou.txt
+06/12/2022 17:22:58            create        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:13            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:23            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:23            write         fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:33            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:40            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:51            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:51            write         fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:23:56            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
+06/12/2022 17:24:01            access        fisier        C:\Users\utilizator\Documents\facultate\python\C15_FaraWatchdog\deMonitorizatMomentam\buna.txt
